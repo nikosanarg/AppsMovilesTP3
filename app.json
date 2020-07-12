@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "tp3_rn_Alberti_Delgado_Pereda_Sandobal",
+    "slug": "snack-8f3091-9340-435d-bfab-9a28510c98aa",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
